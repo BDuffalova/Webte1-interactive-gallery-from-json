@@ -1,0 +1,135 @@
+{
+    "imgs": [
+        { 
+            "filename": "bratislavsky-hrad1.jpg",
+            "name": "Bratislavský hrad 1",
+            "description": "Nádvorie Bratislavského hradu",
+            "date": "20.11.2021",
+            "time": "",
+            "GPS": {
+                "width": "48.1421053165993",
+                "height": "17.100237463487876"
+            },
+            "path": "./img/bratislavsky-hrad1.jpg",
+            "index": "0"
+        },
+        {
+            "filename": "bratislavsky-hrad2.jpg",
+            "name": "Bratislavský hrad 2",
+            "description": "Schody vedúce na hrad",
+            "date": "20.11.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.1421053165993",
+                "height": "17.100237463487876"
+            },
+            "path": "./img/bratislavsky-hrad2.jpg",
+            "index": "1"
+        },
+        {
+            "filename": "bartislavsky-hrad3.jpg",
+            "name": "Bratislavský hrad 3",
+            "description": "Bratislavský hrad z výšky",
+            "date": "27.4.2015",
+            "time": "",
+            "GPS": {
+                "width": "48.1421053165993",
+                "height": "17.100237463487876"
+            },
+            "path": "./img/bartislavsky-hrad3.jpg",
+            "index": "2"
+        },
+        {
+            "filename": "sad-janka-krala1.jpg",
+            "name": "Sad Janka Kráľa 1",
+            "description": "Veža v sade Janka Kráľa",
+            "date": "1.6.2020",
+            "time": "",
+            "GPS": {
+                "width": "48.135145",
+                "height": "17.109960"
+            },
+            "path": "./img/sad-janka-krala1.jpg",
+            "index": "3"
+        },
+        {
+            "filename": "sad-janka-krala2.jpg",
+            "name": "Sad Janka Kráľa 2",
+            "description": "Výhľad na hrad zo sadu",
+            "date": "20.11.2023",
+            "time": "",
+            "GPS": {
+                "width": "48.135145",
+                "height": "17.109960"
+            },
+            "path": "./img/sad-janka-krala2.jpg",
+            "index": "4"
+        },
+        {
+            "filename": "sandberg1.jpg",
+            "name": "Sandberg 1",
+            "description": "Sandberg pri západe slnka",
+            "date": "10.11.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.199381",
+                "height": "16.977137"
+            },
+            "path": "./img/sandberg1.jpg",
+            "index": "5"
+        },
+        {
+            "filename": "sandberg2.jpg",
+            "name": "Sandberg 2",
+            "description": "Detail kopca s hniezdami vtákov",
+            "date": "20.12.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.199381",
+                "height": "16.977137"
+            },
+            "path": "./img/sandberg2.jpg",
+            "index": "6"
+        },
+        {
+            "filename": "slavin1.jpg",
+            "name": "",
+            "description": "",
+            "date": "20.10.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.1539401",
+                "height": "17.0974034"
+            },
+            "path": "./img/slavin1.jpg",
+            "index": "7"
+        },
+        
+        {
+            "filename": "slavin2.jpg",
+            "name": "",
+            "description": "",
+            "date": "22.11.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.1539401",
+                "height": "17.0974034"
+            },
+            "path": "./img/slavin2.jpg",
+            "index": "8"
+        },
+        {
+            "filename": "slavin3.jpg",
+            "name": "",
+            "description": "",
+            "date": "20.11.2022",
+            "time": "",
+            "GPS": {
+                "width": "48.1539401",
+                "height": "17.0974034"
+            },
+            "path": "./img/slavin3.jpg",
+            "index": "9"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa</title>
+    <script src="map.js"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDGp4CLEhWpIjiBlSICcACDH8BCCSOjGI&callback=initMap&v=weekly"
+        defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body onload="afterLoad()">
+    <!-- AIzaSyCDGp4CLEhWpIjiBlSICcACDH8BCCSOjGI -->
+    <div class="content">
+        <div class="topnav">
+            <a href="index.html">Galeria</a>
+            <a class="active" href="#">Mapa</a>
+        </div>
+        <div id="map"></div>
+        <h2>Zobraz trasu</h2>
+        <label class="switch">
+            <input id="toggle" type="checkbox">
+            <span class="slider round"></span>
+        </label>
+        <div id="directions-panel"></div>
+        <main id="pictures">
+        </main>
+    </div>
+
+</body>
+
+</html>
